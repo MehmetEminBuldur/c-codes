@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace selectionSort
+namespace selectionSortt
 {
-    class Program
+    class selectionSort
     {
         static void Main(string[] args)
         {
