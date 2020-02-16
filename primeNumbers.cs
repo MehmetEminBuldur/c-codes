@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace primeNumbers
+namespace primeNumberss
 {
-    class Program
+    class primeNumbers
     {
         static void Main(string[] args)
         {
